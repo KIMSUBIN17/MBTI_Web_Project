@@ -28,10 +28,24 @@
     border:0px;
     border-radius: 20px;
 }
-
 /*버튼 위에 마우스 올렸을 때, 버튼 클릭되었을 때 */
 .kakao:hover, .kakao:focus{
     background-color:whitesmoke;
     color:#FFE500;
+
+}
+
+.gohome{
+    color:white;
+    background-color:pink;
+    font-size: 20px;
+    border:0px;
+    border-radius: 20px;
+}
+
+
+.gohome:hover, .gohome:focus{
+    background-color:whitesmoke;
+    color:pink;
 
 }
